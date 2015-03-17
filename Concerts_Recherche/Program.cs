@@ -16,7 +16,7 @@ namespace Concerts_Recherche
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
-            //coucou
+            //coucou Alexandre il bug !
         }
     }
 }
