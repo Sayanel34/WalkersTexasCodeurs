@@ -1,0 +1,7 @@
+Utilisation du WebKitBrowser (WebBrowser du navigateur Chrome) :
+----------------------------------------------------------------
+
+- Copier tous les fichiers de ce dossier dans le dossier bin/debug de votre projet
+- Ajouter dans la boite à outils (Clic Droit > choisir les éléments) l'élément "WebKitBrowser.dll" de votre dossier bin/debug
+- Placer le composant WebKitBrowser ajouté dans la boite à outils sur le formulaire
+- Les références nécessaires sont alors ajoutées au projet(les autres dlls restent dépendantes dans bin/debug)
