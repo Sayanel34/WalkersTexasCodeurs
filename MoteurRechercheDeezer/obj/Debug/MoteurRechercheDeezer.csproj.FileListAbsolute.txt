@@ -86,3 +86,9 @@ C:\Users\Steeve\Documents\MoteurRechercheDeezer\MoteurRechercheDeezer\obj\Debug\
 C:\Users\Steeve\Documents\MoteurRechercheDeezer\MoteurRechercheDeezer\bin\Debug\BeloncleSteeve.dll
 C:\Users\Steeve\Documents\MoteurRechercheDeezer\MoteurRechercheDeezer\bin\Debug\BeloncleSteeve.pdb
 C:\Users\Steeve\Documents\MoteurRechercheDeezer\MoteurRechercheDeezer\bin\Debug\BeloncleSteeve.xml
+C:\Users\Pilchardus\Source\Repos\WalkersTexasCodeurs\MoteurRechercheDeezer\bin\Debug\MoteurRechercheDeezer.exe.config
+C:\Users\Pilchardus\Source\Repos\WalkersTexasCodeurs\MoteurRechercheDeezer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Pilchardus\Source\Repos\WalkersTexasCodeurs\MoteurRechercheDeezer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Pilchardus\Source\Repos\WalkersTexasCodeurs\MoteurRechercheDeezer\obj\Debug\MoteurRechercheDeezer.csproj.ResolveComReference.cache
+C:\Users\Pilchardus\Source\Repos\WalkersTexasCodeurs\MoteurRechercheDeezer\obj\Debug\MoteurRechercheDeezer.exe
+C:\Users\Pilchardus\Source\Repos\WalkersTexasCodeurs\MoteurRechercheDeezer\obj\Debug\MoteurRechercheDeezer.pdb
