@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoteurRechercheDeezer", "..\..\..\MoteurRechercheDeezer\MoteurRechercheDeezer\MoteurRechercheDeezer.csproj", "{E3B05F6B-6D65-4551-A4CE-790EA52EC4DA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoteurRechercheDeezer", "MoteurRechercheDeezer\MoteurRechercheDeezer.csproj", "{E3B05F6B-6D65-4551-A4CE-790EA52EC4DA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dllLastFm", "dllLastFm\dllLastFm.csproj", "{43FC364D-BB57-460C-AD89-1C5584B593E0}"
 EndProject
