@@ -21,8 +21,6 @@ namespace ZiKnCo.MoteurRechercheDeezer_V3
         {
             cbTypeRech.Items.Add("Recherche par ville.");
             cbTypeRech.Items.Add("Recherche par artiste.");
-
-
         }
 
         private void btnRechercher_Click(object sender, EventArgs e)
